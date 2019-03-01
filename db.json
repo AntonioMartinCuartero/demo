@@ -1,9 +1,9 @@
 {
-"guardarPedido": {
+"guardarPedio": {
 "status":200,
 "mensaje":[
 "OK"
 ],
-"data":"OK"
+"data":"OC"
 }
 }
